@@ -2,7 +2,7 @@ const linksSocialMedia = {
   github: 'WiltonA2',
   youtube: 'WiltonAlves',
   facebook: 'WiltonAmaralAlves',
-  instagram: 'wilton_alves12',
+  instagram: 'mtts.ufcg',
   twitter: 'Wiltonamaral12'
 }
 
